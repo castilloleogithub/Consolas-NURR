@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1155</ColumnWidth1><ColumnWidth2>308</ColumnWidth2><ColumnWidth3>77</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>123</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+      <Watch>
+        <Format>
+          <struct_types/>
+          <watch_formats><Fmt><Key>{W}Watch-0:P0_bit.P03</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:P0_bit.P04</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:P0_bit.P05</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:P4_bit.P46</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:P4_bit.P47</Key><Value>4</Value></Fmt></watch_formats>
+        </Format>
+        
+        
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Watch>
+    </Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11143-3921</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5><Wnd6>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21891-3924</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>DSY-6</ExpandedNode><ExpandedNode>DSY-6/Application</ExpandedNode><ExpandedNode>DSY-6/Drivers</ExpandedNode><ExpandedNode>DSY-6/Output</ExpandedNode><ExpandedNode>DSY-6/main_DSY.c</ExpandedNode><ExpandedNode>DSY-6/ssd1963.c</ExpandedNode><ExpandedNode>DSY-6/ssd1963_text.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd6><Wnd7><Tabs><Tab>
+            <Identity>TabID-10620-3930</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab></Tabs><SelectedTab>0</SelectedTab></Wnd7><Wnd8><Tabs><Tab><Identity>TabID-9248-20963</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>dato_ing</Expression></Expression><Expression><Expression>dato_ing2</Expression></Expression><Expression><Expression>P0_bit.P03</Expression></Expression><Expression><Expression>RST</Expression></Expression><Expression><Expression>RST</Expression></Expression><Expression><Expression>P03</Expression></Expression><Expression><Expression>P0_bit.P05</Expression></Expression><Expression><Expression>P4_bit.P46</Expression></Expression><Expression><Expression>P4_bit.P47</Expression></Expression><Expression><Expression>P0_bit.P04</Expression></Expression></Expressions><TabId>0</TabId><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd8><Wnd9><Tabs><Tab><Identity>TabID-22417-22155</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd9></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\fondo.c</Filename><XPos>0</XPos><YPos>2885</YPos><SelStart>156606</SelStart><SelEnd>156606</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\module_DSY.c</Filename><XPos>0</XPos><YPos>132</YPos><SelStart>2524</SelStart><SelEnd>2524</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\main_DSY.c</Filename><XPos>0</XPos><YPos>166</YPos><SelStart>392</SelStart><SelEnd>392</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\Library RPS\Application\SafetyBus.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>2226</SelStart><SelEnd>2226</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\ssd1963_text.c</Filename><XPos>0</XPos><YPos>23</YPos><SelStart>1973</SelStart><SelEnd>1973</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\module_DSY.h</Filename><XPos>0</XPos><YPos>270</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\ssd1963.h</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>1226</SelStart><SelEnd>1236</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 5.3\8051\inc\ioC8051f040.h</Filename><XPos>0</XPos><YPos>651</YPos><SelStart>19445</SelStart><SelEnd>19448</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-025ed9c0><key>iaridepm.enu1</key></Toolbar-025ed9c0></Sizes></Row0><Row1><Sizes><Toolbar-09663020><key>debuggergui.enu1</key></Toolbar-09663020></Sizes></Row1></Top><Left><Row0><Sizes><Wnd6><Rect><Top>-2</Top><Left>-2</Left><Bottom>453</Bottom><Right>214</Right><x>-2</x><y>-2</y><xscreen>203</xscreen><yscreen>206</yscreen><sizeHorzCX>148609</sizeHorzCX><sizeHorzCY>283747</sizeHorzCY><sizeVertCX>158126</sizeVertCX><sizeVertCY>626722</sizeVertCY></Rect></Wnd6></Sizes></Row0></Left><Right><Row0><Sizes><Wnd8><Rect><Top>-2</Top><Left>-2</Left><Bottom>453</Bottom><Right>144</Right><x>-2</x><y>-2</y><xscreen>146</xscreen><yscreen>136</yscreen><sizeHorzCX>106881</sizeHorzCX><sizeHorzCY>187328</sizeHorzCY><sizeVertCX>106881</sizeVertCX><sizeVertCY>626722</sizeVertCY></Rect></Wnd8></Sizes></Row0><Row1><Sizes><Wnd9><Rect><Top>-2</Top><Left>142</Left><Bottom>453</Bottom><Right>288</Right><x>142</x><y>-2</y><xscreen>146</xscreen><yscreen>136</yscreen><sizeHorzCX>106881</sizeHorzCX><sizeHorzCY>187328</sizeHorzCY><sizeVertCX>106881</sizeVertCX><sizeVertCY>626722</sizeVertCY></Rect></Wnd9></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd7><Rect><Top>-2</Top><Left>-2</Left><Bottom>204</Bottom><Right>375</Right><x>-2</x><y>-2</y><xscreen>377</xscreen><yscreen>206</yscreen><sizeHorzCX>275988</sizeHorzCX><sizeHorzCY>283747</sizeHorzCY><sizeVertCX>147877</sizeVertCX><sizeVertCY>282369</sizeVertCY></Rect></Wnd7><Wnd5><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>0</Right><x>373</x><y>-2</y><xscreen>995</xscreen><yscreen>206</yscreen><sizeHorzCX>728404</sizeHorzCX><sizeHorzCY>283747</sizeHorzCY><sizeVertCX>148609</sizeVertCX><sizeVertCY>283747</sizeVertCY></Rect></Wnd5></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

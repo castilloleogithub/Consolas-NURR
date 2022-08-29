@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2511943589</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\DSY-6.pbd</file>
+      <file>$PROJ_DIR$\fondo.h</file>
+      <file>$PROJ_DIR$\..\Library RPS\Drivers\adc.c</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\MemoryBank.c</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\ProcessCode.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\MemoryBank.r51</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CAN.r51</file>
+      <file>$TOOLKIT_DIR$\inc\ioC8051f040.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\module_DSY.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\MemoryBank.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ymath.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk_base.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\main_DSY.pbi</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\SafetyBus.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl8051Normal.h</file>
+      <file>$PROJ_DIR$\..\Library RPS\Drivers\page_defs.h</file>
+      <file>$PROJ_DIR$\font.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl-pli-nlxd-1e16x01.r51</file>
+      <file>$PROJ_DIR$\ssd1963.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\I2C.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\fondo.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\DSY-6.sym</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\Supervisor.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\DSY-6.hex</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\SafetyBus.c</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\Supervisor.c</file>
+      <file>$PROJ_DIR$\..\Library RPS\Drivers\CAN.c</file>
+      <file>$PROJ_DIR$\..\Library RPS\Drivers\I2C.c</file>
+      <file>$PROJ_DIR$\fondo.c</file>
+      <file>$PROJ_DIR$\main_DSY.c</file>
+      <file>$PROJ_DIR$\module_DSY.c</file>
+      <file>$PROJ_DIR$\ssd1963_text.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Supervisor.pbi</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\adcExt.h</file>
+      <file>$PROJ_DIR$\Debug\List\DSY-6.map</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\configuration.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SafetyBus.pbi</file>
+      <file>$PROJ_DIR$\module_DSY.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SafetyBus.r51</file>
+      <file>$PROJ_DIR$\rgb.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\fondo.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\CAN.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.pbi</file>
+      <file>$PROJ_DIR$\font7.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ssd1963_text.pbi</file>
+      <file>$PROJ_DIR$\font2.h</file>
+      <file>$PROJ_DIR$\font3.h</file>
+      <file>$PROJ_DIR$\font9.h</file>
+      <file>$PROJ_DIR$\font10.h</file>
+      <file>$PROJ_DIR$\font11.h</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\ProcessCode.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\DSY-6.d51</file>
+      <file>$PROJ_DIR$\font6.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ssd1963_text.r51</file>
+      <file>$PROJ_DIR$\..\Library RPS\Application\MemoryBank.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\Library RPS\Drivers\CAN.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ProcessCode.r51</file>
+      <file>$PROJ_DIR$\font8.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk51ew.xcl</file>
+      <file>$PROJ_DIR$\font4.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main_DSY.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\module_DSY.pbi</file>
+      <file>$PROJ_DIR$\font5.h</file>
+      <file>$PROJ_DIR$\..\Library RPS\Drivers\I2C.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\Library RPS\Drivers\adc.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\math.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Supervisor.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\I2C.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\ProcessCode.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\DSY-6.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 46 21 11 77 40 34 47 22 14 67 49</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Library RPS\Drivers\adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 17 72 37 41 73 6 38 7 71 60 70</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 9 17 72 37 41 73 6 38 16 7 71 60 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Library RPS\Application\MemoryBank.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59 69 37 41 9 17 73 6 38 7 71 60 70 55</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 59 69 37 41 9 17 73 6 38 16 7 71 60 70 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Library RPS\Application\ProcessCode.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 73 6 38 7 71 60 70 59 69 37 41 9 17</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 55 73 6 38 16 7 71 60 70 59 69 37 41 9 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 25 36 23</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\DSY-6.hex</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 36 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 64 13 8 76 5 62 42 75 45 44 66 10 58 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Library RPS\Application\SafetyBus.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 61 9 17 73 6 38 7 71 60 70 59 69 37 41 55 35</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 15 61 9 17 73 6 38 16 7 71 60 70 59 69 37 41 55 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Library RPS\Application\Supervisor.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24 37 41 9 17 73 6 38 7 71 60 70 15 61 59 69 55</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 24 37 41 9 17 73 6 38 16 7 71 60 70 15 61 59 69 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Library RPS\Drivers\CAN.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 9 17 73 6 38 7 71 60 70</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 61 9 17 73 6 38 16 7 71 60 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Library RPS\Drivers\I2C.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 37 41 9 17 73 6 38 7 71 60 70</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 69 37 41 9 17 73 6 38 16 7 71 60 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\fondo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 20 73 6 38 7 71 60 43 74 12 1</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 9 20 73 6 38 16 7 71 60 43 74 12 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main_DSY.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 37 41 9 17 73 6 38 7 71 60 70 59 55 15 61 72 24 39</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 69 37 41 9 17 73 6 38 16 7 71 60 70 59 55 15 61 72 24 39</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\module_DSY.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41 9 17 73 6 38 7 71 60 70 15 61 59 69 37 55 72 24</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 41 9 17 73 6 38 16 7 71 60 70 15 61 59 69 37 55 72 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ssd1963_text.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 73 6 38 7 71 60 43 9 17 18 50 51 65 68 57 48 63 52 53 54</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 20 73 6 38 16 7 71 60 43 9 17 18 50 51 65 68 57 48 63 52 53 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\DSY-6.d51</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 64 13 8 76 5 62 42 75 45 44 66 10 58 19</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

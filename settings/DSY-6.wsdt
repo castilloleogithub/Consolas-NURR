@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>DSY-6/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows></Debug-Log>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>190</Column0><Column1>10</Column1><Column2>27</Column2><Column3>20122608</Column3></ColumnWidths>
+      </Workspace>
+    <Build><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>23</ColumnWidth0><ColumnWidth1>850</ColumnWidth1><ColumnWidth2>330</ColumnWidth2><ColumnWidth3>76</ColumnWidth3></Build><TerminalIO/><Find-in-Files><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>552</ColumnWidth0><ColumnWidth1>78</ColumnWidth1><ColumnWidth2>946</ColumnWidth2></Find-in-Files><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-32509-26253</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>DSY-6</ExpandedNode><ExpandedNode>DSY-6/Application</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2><Tabs><Tab><Identity>TabID-18171-18936</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-30333-30881</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-14993-26340</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\fondo.c</Filename><XPos>0</XPos><YPos>3044</YPos><SelStart>156003</SelStart><SelEnd>156031</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\module_DSY.c</Filename><XPos>0</XPos><YPos>291</YPos><SelStart>2524</SelStart><SelEnd>2524</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\main_DSY.c</Filename><XPos>0</XPos><YPos>124</YPos><SelStart>2796</SelStart><SelEnd>2796</SelEnd></Tab><ActiveTab>2</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\Library RPS\Application\SafetyBus.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>2226</SelStart><SelEnd>2226</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\ssd1963_text.c</Filename><XPos>0</XPos><YPos>23</YPos><SelStart>1973</SelStart><SelEnd>1973</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\module_DSY.h</Filename><XPos>0</XPos><YPos>270</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Firmware RPS\DSY-6\ssd1963.h</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>1226</SelStart><SelEnd>1236</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 5.3\8051\inc\ioC8051f040.h</Filename><XPos>0</XPos><YPos>651</YPos><SelStart>19445</SelStart><SelEnd>19448</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0254da58><key>iaridepm.enu1</key></Toolbar-0254da58></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>450</Bottom><Right>247</Right><x>-2</x><y>-2</y><xscreen>1369</xscreen><yscreen>-169230</yscreen><sizeHorzCX>1002196</sizeHorzCX><sizeHorzCY>-233099173</sizeHorzCY><sizeVertCX>182284</sizeVertCX><sizeVertCY>622590</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>231</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>233</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>320937</sizeHorzCY><sizeVertCX>19766</sizeVertCX><sizeVertCY>31680</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
